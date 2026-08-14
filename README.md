@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ RVG Gateway
+# 🛡️ Notaniboy
 
 **پنل مدیریت و گیتوی چندپروتکلی، سریع، ماژولار و خودکار**
 
